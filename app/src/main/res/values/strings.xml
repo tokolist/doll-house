@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Dollhouse</string>
+    <string name="connect">Connect</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="needs_bluetooth_connection">Application requires bluetooth connection. Please enable it in settings.</string>
+    <string name="needs_bluetooth_support">This device doesn\'t support Bluetooth.</string>
+    <string name="bluetooth_successfully_connected">Successfully connected to %s.</string>
+    <string name="bluetooth_successfully_disconnected">Successfully disconnected.</string>
+    <string name="bluetooth_cannot_connect">Cannot connect. Error message: %s.</string>
+    <string name="bluetooth_devices_hint">In order to add bluetooth device to this list, pair it in bluetooth settings.</string>
+</resources>
